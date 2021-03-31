@@ -44,5 +44,6 @@ public class FindModeInBinarySearchTree501 {
             modeList.add(node.val);
         }
         findModeHelper(node.right);
+
     }
 }
