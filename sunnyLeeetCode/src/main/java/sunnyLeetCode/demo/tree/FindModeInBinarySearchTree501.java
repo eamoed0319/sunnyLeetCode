@@ -1,6 +1,7 @@
 package sunnyLeetCode.demo.tree;
 import java.util.ArrayList;
 import java.util.List;
+import sunnyLeetCode.demo.model.TreeNode;
 
 public class FindModeInBinarySearchTree501 {
     TreeNode privNode;
